@@ -1,0 +1,14 @@
+
+#custom-checkbox {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+#custom-checkbox input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #007AFF;
+    border-radius: 5px;
+    outline: none;
+}
