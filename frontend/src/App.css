@@ -1,3 +1,17 @@
+body b{
+  font-family: "Inter", sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+
+}
+body h1{
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+}
+
 body h2{
   font-size: 28px;
   font-family: "Inter", sans-serif;
